@@ -1,6 +1,6 @@
 from behave import *
 from appium import webdriver
-from ...main_view import MainView
+from ..main_view import MainView
 
 
 @step('upper text bar is: {"text"}')
