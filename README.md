@@ -10,7 +10,7 @@ Sample acceptance tests for a calculator application
 
 Use the link above for detailed guide on how to configure Android for Appium.
 
-### Running the test	s:
+### Running the tests:
 
 1. Start appium server
 2. Type in the following:
