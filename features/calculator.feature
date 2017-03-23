@@ -15,7 +15,7 @@ Feature: Calculator tests
 		Then upper text bar is: "Bravo ya islam"
 		Then bottom text bar is: "new number =2"
 
-	Scenario: Verify ADD button works
+	Scenario: Verify SUB button works
 		When user clicks SUB button
 		Then upper text bar is: "Islam_hamdy"
 		Then bottom text bar is: "new number =-1"
